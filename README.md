@@ -10,14 +10,14 @@ Sports club Management System is the process whereby records of members are dire
 
 ## Front end
 HTML, CSS, JavaScript
--HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
--CSS : (Cascading Style Sheets) Create attractive Layout
--Bootstrap : responsive design mobile freindly site
--JavaScript: it is a programming language, commonly use with web browsers.
+HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
+CSS : (Cascading Style Sheets) Create attractive Layout
+Bootstrap : responsive design mobile freindly site
+JavaScript: it is a programming language, commonly use with web browsers.
 ## Back end
 PHP, MySQL
--PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
--MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
+PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
+MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 
 Screenshots:
 
@@ -30,10 +30,10 @@ Screenshots:
 ![image](https://github.com/alfiyasama/SportsClubManagementSystem/assets/121941528/655624c9-599a-4487-9b36-2cfe9f5fca0e)
 
 ## Server-Requirement
--WAMP Server (Used for this project)
--XAMPP Server
--MAMP Server
--LAMP Server
+WAMP Server (Used for this project)
+XAMPP Server
+MAMP Server
+LAMP Server
 
 ## Installation-Steps
 1. Download zip file and Unzip file on your local server.
@@ -46,5 +46,5 @@ Screenshots:
 8. Open localhost:6969 in your browser.
 
 ## Admin Login Details
--Login Id: admin1
--Password: admin1
+Login Id: admin1
+Password: admin1
