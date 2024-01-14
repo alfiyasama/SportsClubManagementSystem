@@ -9,17 +9,23 @@ Sports club Management System is the process whereby records of members are dire
 • I have also created 3 Triggers and a Stored Procedure in the project for better understandin of the Data base concepts.
 
 ## Front end
-HTML, CSS, JavaScript
-HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++
-CSS : (Cascading Style Sheets) Create attractive Layout
-Bootstrap : responsive design mobile freindly site
+HTML, CSS, JavaScript<br>
+<p>HTML: HTML is used to create and save web document. E.g. Notepad/Notepad++ <br>
+CSS : (Cascading Style Sheets) Create attractive Layout<br>
+Bootstrap : responsive design mobile freindly site.<br>
 JavaScript: it is a programming language, commonly use with web browsers.
-## Back end
-PHP, MySQL
-PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
-MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
+<br>
+</p>
 
-Screenshots:
+## Back end
+<p>
+PHP, MySQL<br>
+PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.<br>
+MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
+<br>
+</p>
+
+## Screenshots
 
 ![image](https://github.com/alfiyasama/SportsClubManagementSystem/assets/121941528/350cf695-2fbd-4741-90ff-4646c7433656)
 
@@ -30,10 +36,13 @@ Screenshots:
 ![image](https://github.com/alfiyasama/SportsClubManagementSystem/assets/121941528/655624c9-599a-4487-9b36-2cfe9f5fca0e)
 
 ## Server-Requirement
-WAMP Server (Used for this project)
-XAMPP Server
-MAMP Server
-LAMP Server
+<p>
+WAMP Server (Used for this project)<br>
+XAMPP Server<br>
+MAMP Server<br>
+LAMP Server<br>
+</p>
+
 
 ## Installation-Steps
 1. Download zip file and Unzip file on your local server.
@@ -46,5 +55,5 @@ LAMP Server
 8. Open localhost:6969 in your browser.
 
 ## Admin Login Details
-Login Id: admin1
-Password: admin1
+Login Id: admin1<br>
+Password: admin1<br>
